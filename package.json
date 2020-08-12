@@ -1,0 +1,23 @@
+{
+  "name": "twitchbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxt95/twitchBot.git"
+  },
+  "author": "Max Conrad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxt95/twitchBot/issues"
+  },
+  "homepage": "https://github.com/maxt95/twitchBot#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "tmi.js": "^1.5.0"
+  }
+}
